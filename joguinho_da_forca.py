@@ -1,4 +1,3 @@
-
 import random
 with open("dicionario.txt", "r") as file:
     allText = file.read()
